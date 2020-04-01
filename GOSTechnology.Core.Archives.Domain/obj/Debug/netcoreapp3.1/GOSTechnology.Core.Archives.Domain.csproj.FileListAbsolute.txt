@@ -1,0 +1,7 @@
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.deps.json
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.dll
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.pdb
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.AssemblyInfoInputs.cache
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.AssemblyInfo.cs
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.dll
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Domain\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.pdb

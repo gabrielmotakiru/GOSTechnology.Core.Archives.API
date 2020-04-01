@@ -1,0 +1,11 @@
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.deps.json
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.dll
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.pdb
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.AssemblyInfoInputs.cache
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.AssemblyInfo.cs
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.dll
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.pdb
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.csprojAssemblyReference.cache
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.dll
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\bin\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Domain.pdb
+C:\Users\gabrielos\source\repos\GOSTechnology.Core.Archives\GOSTechnology.Core.Archives.Repository\obj\Debug\netcoreapp3.1\GOSTechnology.Core.Archives.Repository.csproj.CopyComplete

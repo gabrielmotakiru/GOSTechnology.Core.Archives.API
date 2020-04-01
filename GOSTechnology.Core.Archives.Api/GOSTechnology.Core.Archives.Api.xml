@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GOSTechnology.Core.Archives.Api</name>
+    </assembly>
+    <members>
+        <member name="T:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController">
+            <summary>
+            ArchivesController.
+            </summary>
+        </member>
+        <member name="F:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController._archiveService">
+            <summary>
+            _archiveService.
+            </summary>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.#ctor(GOSTechnology.Core.Archives.Domain.Interfaces.IArchiveService)">
+            <summary>
+            ArchivesController.
+            </summary>
+            <param name="archiveService"></param>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.PostArchiveBase64(GOSTechnology.Core.Archives.Domain.BindingModels.ArchiveBase64BindingModel)">
+            <summary>
+            Post ArchiveBase64.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.PostArchiveFormData(GOSTechnology.Core.Archives.Domain.BindingModels.ArchiveStreamBindingModel)">
+            <summary>
+            Post ArchiveFormData.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.GetArchiveBase64(System.String)">
+            <summary>
+            Get ArchiveBase64 from archiveId.
+            </summary>
+            <param name="archiveId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.GetArchivePath(System.String)">
+            <summary>
+            Get ArchivePath from archiveId.
+            </summary>
+            <param name="archiveId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.ListArchiveBase64(System.String)">
+            <summary>
+            List ListArchiveBase64 from userToken.
+            </summary>
+            <param name="userToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Controllers.ArchivesController.ListArchivePath(System.String)">
+            <summary>
+            List ArchivePath from userToken.
+            </summary>
+            <param name="userToken"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GOSTechnology.Core.Archives.Api.Infra.DependencyInjectionConfiguration">
+            <summary>
+            DependencyInjectionConfiguration.
+            </summary>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Infra.DependencyInjectionConfiguration.AddServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            AddServices.
+            </summary>
+            <param name="builder"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GOSTechnology.Core.Archives.Api.Infra.NSwaggerConfiguration">
+            <summary>
+            NSwaggerConfiguration.
+            </summary>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Infra.NSwaggerConfiguration.AddNSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            AddNSwagger.
+            </summary>
+            <param name="builder"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Api.Infra.NSwaggerConfiguration.AddSecurity(NSwag.Generation.AspNetCore.AspNetCoreOpenApiDocumentGeneratorSettings,Microsoft.Extensions.Configuration.IConfigurationRoot)">
+            <summary>
+            AddSecurity.
+            </summary>
+            <param name="document"></param>
+            <param name="configuration"></param>
+        </member>
+        <member name="T:GOSTechnology.Core.Archives.Controllers.HomeController">
+            <summary>
+            HomeController.
+            </summary>
+        </member>
+        <member name="M:GOSTechnology.Core.Archives.Controllers.HomeController.Index">
+            <summary>
+            Index.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
